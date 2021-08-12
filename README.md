@@ -46,7 +46,20 @@ namespace Calculadora.Controllers
     }
 }
 
-8. 
+8. CReamos en la carpeta modelos un nuevo archivo con los metodos get y set
+
+namespace Actividad1CAlculadora.Models
+{
+    public class CalculadoraViewModel
+    {
+        public string RequestId { get; set; } */ Metodo get y set es para la calculadora */
+
+        
+    }
+}
+
+
+9. 
 
 
 
