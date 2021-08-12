@@ -2,7 +2,7 @@
 
 Aclaratoria :  ya que se esta usando el respaldo de Github como copia de seguridad de de los repositorios , es ideal programar que se actualice automaticamente , no obstante estaria mal , ir actualizando cada que realices un cambio importante.
 
-Para sincronizar solo deberemos ir al control de codigo fuento , seleccionar el signo mas (* ) para que guarde los cambios , luego la palomita o chulo 
+Para sincronizar solo deberemos ir al control de codigo fuento , seleccionar el signo mas (* ) para que guarde los cambios , luego la palomita o chulo , una vez echo esto , dejamos un comentario para ir identificando que cambio y avances hemos realizado , y para finalizar en 
 
 
 1. Se emplea GitHub con el animo de guardar y documentar el proceso.
